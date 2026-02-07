@@ -4,7 +4,7 @@
   <img alt="Lagbase" src="https://lagbase.com/og-image.png" width="100%">
 </picture>
 
-<h1 align="center">Bloomberg for Decisions</h1>
+<h1 align="center">The Decision Terminal</h1>
 
 <p align="center">
   <strong>The reference layer for decision lag.</strong><br>
